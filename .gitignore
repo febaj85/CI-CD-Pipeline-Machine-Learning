@@ -1,0 +1,15 @@
+
+# IDE
+
+# Log Files
+
+# Environments
+env_/
+# Unit test / coverage reports
+
+mlproject.egg-info/
+# Others
+tag_map_test.py
+
+
+*.pyc
